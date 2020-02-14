@@ -1,0 +1,48 @@
+87 35 true 9F 6F 21 73 1E 0E E0 36 
+225 32 true 6E 97 A6 BA AB F1 EC B5 
+
+0 0 false null
+0 0 false null
+
+131 29 true 1D 9E FD 13 C3 66 C3 22 
+110 34 true 7B F9 DD 64 7B D2 4E 89 
+
+0 0 false null
+0 0 false null
+
+505 1 true 20 0D 5A F8 93 94 CA 83 
+370 22 true 39 B3 2B F9 F4 21 8B D9 
+
+0 0 false null
+0 0 false null
+
+195 37 true A3 96 1C CF FA C6 80 75 
+314 31 true 1B C8 BF 3E 34 BF 29 0B 
+
+0 0 false null
+0 0 false null
+
+489 38 true F5 ED D1 E6 21 59 BB 5E 
+414 30 true 5D 38 ED 01 C8 6D A9 CC 
+
+0 0 false null
+0 0 false null
+
+244 19 true 7D 92 9E 6D 0A FC A9 44 
+401 24 true 33 3E FB 60 12 82 58 BE 
+
+0 0 false null
+0 0 false null
+
+334 27 true 6B B9 8B FF 28 7B FF E8 
+161 23 true 35 87 DD 47 2E 2D C8 A5 
+
+0 0 false null
+0 0 false null
+
+40 33 true C0 54 36 C9 D0 62 EF FC 
+445 36 true 0E DE 8C 1F 49 56 4F C3 
+
+0 0 false null
+0 0 false null
+

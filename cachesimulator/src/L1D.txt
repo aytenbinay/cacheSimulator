@@ -1,0 +1,48 @@
+6358 29 true 56 97 58 C3 65 F3 7B 6D 
+7002 38 true 6D AC 8E 2F 78 28 FB BB 
+
+0 0 false null
+0 0 false null
+
+5352 40 true de 63 52 5F FA 1A C2 D0 
+0 0 false null
+
+0 0 false null
+0 0 false null
+
+6313 35 true 51 25 b3 48 C0 0D B0 54 
+2867 34 true 57 C9 6C BB D3 C9 D0 DC 
+
+0 0 false null
+0 0 false null
+
+5653 42 true D3 9B 76 B6 D1 E6 75 C5 
+6461 37 true F3 16 A3 E2 E9 85 C0 4A 
+
+0 0 false null
+0 0 false null
+
+4975 39 true 06 22 89 A1 F2 61 AD EA 
+1406 28 true 8e 4c 81 A2 C7 68 BC A7 
+
+0 0 false null
+0 0 false null
+
+5368 43 true 8c 0c 66 5D E3 3A 9E E6 
+6364 41 true 57 59 d3 51 ad ac 1E E5 
+
+0 0 false null
+0 0 false null
+
+5249 33 true A0 A3 CA 63 3D 0D 44 26 
+6759 32 true ec 0b b9 20 ba 1A 07 43 
+
+0 0 false null
+0 0 false null
+
+1922 45 true 4f 89 d4 b6 80 28 58 21 
+2854 44 true 5A 47 8B EB 1E 73 42 FF 
+
+0 0 false null
+0 0 false null
+
